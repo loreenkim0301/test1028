@@ -3,7 +3,7 @@
 <div align="center">
   <img width="378" height="386" alt="instructor" src="https://github.com/user-attachments/assets/95efe7d2-b6cd-4886-90d4-513f04a789bf" />
 </div>
-
+ㄹㅇㅇㄹㅇㅇㅇㅇ
 ## 자기소개
 안녕하세요! 저는 사용자에게 의미 있는 경험을 만들고, 기술로 문제를 해결하는 것을 좋아하는 개발자입니다.  
 지금은 웹/앱 개발, 협업, UI/UX를 함께 고려하며 실무에 가까운 프로젝트를 만들어가고 있습니다. 꾸준히 배우고, 직접 만들어보며 성장하는 과정을 즐기고 있습니다.
